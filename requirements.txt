@@ -1,4 +1,4 @@
-kivy
-opencv-python
-google-generativeai
+streamlit
+opencv-python-headless
+numpy
 pillow
