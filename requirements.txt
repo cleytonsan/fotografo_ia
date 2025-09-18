@@ -1,1 +1,4 @@
-
+kivy
+opencv-python
+google-generativeai
+pillow
